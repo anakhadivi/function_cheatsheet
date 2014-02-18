@@ -40,26 +40,26 @@ console.log("This logs into the console");
 //Testing
 //Any test returns a boolean true or false
 //Testing equality of strings
-"Ana"==="Susan"//Using three equals signs instead of two also checks the object type
+//"Ana"==="Susan"//Using three equals signs instead of two also checks the object type
 
 //Testing Inequality
-"Ana" !== "Susan"
->true
+//"Ana" !== "Susan"
+//>true
 //Greater than
-80>3
->true
+//80>3
+//>true
 
 //Less than
-80<3
->false
+//80<3
+//>false
 
 //Greater than or equal to
-50>=3
->true
+//50>=3
+//>true
 
 //Less than or equal to 
-40<=60
->true
+//40<=60
+//>true
 
 //Logic
 //The control flow of your program
